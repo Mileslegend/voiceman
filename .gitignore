@@ -39,6 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-miles.jsonmilespeak-b9af1-firebase-adminsdk-fbsvc-629c8da747.json
+
 miles.json
 milespeak-b9af1-firebase-adminsdk-fbsvc-629c8da747.json
