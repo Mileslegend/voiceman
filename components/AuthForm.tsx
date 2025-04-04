@@ -92,7 +92,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
       console.log(error);
       toast.error(`There was an error: ${error}`);
     }
-    console.log(values);
+
   }
 
   const isSignIn = type === "sign-in";
