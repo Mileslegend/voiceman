@@ -10,7 +10,7 @@ const monaSans = Mona_Sans({
 
 
 export const metadata: Metadata = {
-  title: "PrepWise",
+  title: "BeraSharp",
   description: "AI-powered platform for preparing mock interviews",
 };
 
