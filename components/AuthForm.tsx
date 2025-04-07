@@ -143,7 +143,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
             href={!isSignIn ? "/sign-in" : "/sign-up"}
             className="font-bold text-user-primary ml-1"
           >
-            {isSignIn ? "Sign In" : "Sign Up"}
+            {isSignIn ? "Sign Up" : "Sign In"}
           </Link>
         </p>
       </div>
